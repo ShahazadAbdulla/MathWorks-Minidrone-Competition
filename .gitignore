@@ -1,0 +1,12 @@
+# MATLAB & Simulink Cache Files
+*.asv
+*.autosave
+*.bak
+*.mex*
+*.slxc
+*.slic
+slprj/
+.SimulinkProject/
+
+# Your final submission archive (optional, but good practice)
+*.mlproj
