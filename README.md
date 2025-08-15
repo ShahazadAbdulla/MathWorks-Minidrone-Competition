@@ -4,7 +4,7 @@ A fully autonomous navigation and landing system for a Parrot Minidrone, develop
 
 ## Simulation Demo
 
-![Simulation GIF]([Link to your GIF will go here])
+![WhatsAppVideo2025-08-15at16 41 25-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/1195d681-0249-42e4-af46-91ecb5c3d417)
 
 ## Key Features
 
